@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "icareolsztyn",
+  "private_key_id": "d0b9397da7a5db46dd1783d6e7ca91b08c9b6f59",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1KIj37z2k3QdM\nzZKq0PEyyORA6yNl/Ujd+QkYgIqne6QpGJ/74iRIcXdS2+Z+3vLbUzSc+7U7nR/O\njDq5Lxe8BChCMlSrMwaq46D4HftvlNf8unzJI9WrnPPZPYmKnYzxknTkL2Pklv6V\nEFDbMHRKz9LdW2IOCLNca7Ir6FlJ/PZ6qO/J56zzaOTwWhsrnwVknCLEIC87SgAt\nmX/ljWt8IrB13eofnRCExP1f4Cozs1glwJ5eC6xSwTEgS51YTJp0hS02Q7zu3TSf\nYfn+1ABuZaGInP5iV5QAD+m/LoTo75gDyPALx1vXU4P4jB/IKIjTovsB0NcccGMz\n5HMGnIM7AgMBAAECggEABT5kIJEbPq9rK6zzpuAfazHncX2c67HWLx6rRbtKyChL\nCyl8UAUuua4XHx3gYSHA89pHtpeOmmgk6IykkoGrdTTFmYztaHs0oTOvkB8GDSfI\nzLb1L7lK0QndARfH6GxBDSkJGyXIBXDdc6EiRgX0B8pWNzQS9YcI8g7n/F9gXkTY\ns63bXQL6r5j4WqX0TdweYcMmb1lZCJNAVy8h/lfdGkH4pSF+g3c70UDjKGCeYbDq\nX8dGpM53ta8Vaq6+Irv0wieo8NWM4vS5kuIopoCz58v/3sVg6sRV6o/VXwVRrbeJ\ntJPD1zdHy0iZJuOFgZFE/DAt1dlbktabaeHerBckoQKBgQDswU9SvvHo9q611U1d\ni/E0JhyXTkj+tAuXNiGljXkoRbjOUVVbH3UQTPh/Jq61dMBxH7Bf13jtKKBbHgyT\nkR0fNJnrG/g3CeZ353vEWAObncuo0DTXms18b2sgfjne2V1gy4wJ84SclKJZvp3s\n2KbmnNJyOUoH8hV6+lCdXYznkQKBgQDD4kynC/5O6GVxJc3cSE8vUf6Biqb1+G2n\nY8TipY9G1v558pVKuKq6pywd9+hYf+MawDTkxdmGmZ/x+ZaCoPt1kRo1Nz4zXyVb\nvgISebFvaJFhM9o57DYyKfsHNyVn+p/scR+O63DmDMtJVYEbLCER5BFxKcyoAOau\nZnpBFf2QCwKBgQDATnDRJHo4oY7d8clqr84XbtGQcS1HfhVgGL8Ryy1bce6f3162\nqoGa4PqDxXbpu1DJUlUgNFRsRrCh8nGCt79w5ngTid9/TVJfmK5mmJstnumbUKtr\nabl5VsMsXHtDMUnw4sT4HE5eJTkOLo/2nzBKZ51k3HXuqEucXZB3klJukQKBgE9U\n4VJuCwqOGDdg5iSmrFsvy/FO5BuOB2rZfy2De6lm/R0KX+gpLgv2FGn2swTUlneJ\nDGLytgxLP3nSaWByLiUJJSIUQ36utASZyWEOJAxIv0gspd77iV97nQzpCp8343jw\nv6U0OT8SQ2pp1KXak3IZee7ozNfltYdAPZcKfuzNAoGAEOiePMMYeVqzQWVIlQ+a\nQvRM3ff0oXHBYeV8r7Y/OSUX7nYNMxQ6bIga3cWqWHnkyYMT5AEyz9pNH6yCODB9\n4Vnh+aROynHo3DFdCmxn8HS/T50aaKiPJdAiUrmjp6+Fz5VNTWWwNNQWgrIAYJqU\nAaVI7+3rdWkDyqLcZ+pAfmg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "icolsztyn@icareolsztyn.iam.gserviceaccount.com",
+  "client_id": "116464396196787214685",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/icolsztyn%40icareolsztyn.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
