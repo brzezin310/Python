@@ -4,3 +4,9 @@ plotly==5.2.1
 google-cloud-bigquery==2.26.0
 google-auth==2.6.0
 python-dateutil==2.8.2
+plotly
+scipy
+pandas
+Flask
+flask-cors
+pyforest
